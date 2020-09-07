@@ -4,6 +4,11 @@ A simple app to create, remove and edit employees with name and country in a lis
 
 - The elements are saved in the localStorage to avoid loose data when reload
 
+## Stack
+
+- Angular
+- Bootstrap
+
 ## Desktop view
 
 ![Desktop_Screenshot](./desktop_screenshot.png)
