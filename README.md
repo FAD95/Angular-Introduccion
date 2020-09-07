@@ -6,11 +6,11 @@ A simple app to create, remove and edit employees with name and country in a lis
 
 ## Desktop view
 
-![Desktop_Screenshot](./desktop_screenshoot.png)
+![Desktop_Screenshot](./desktop_screenshot.png)
 
 ## Mobile view
 
-![Mobile_Screenshot](./mobile_screenshoot.png)
+![Mobile_Screenshot](./mobile_screenshot.png)
 
 ## Development server
 
