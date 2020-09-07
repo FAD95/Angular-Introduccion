@@ -2,11 +2,7 @@ import { Component } from "@angular/core";
 
 @Component({
   selector: "app-my-first",
-  template: `
-    <h1>{{ title }}</h1>
-    <p>{{ coment }}</p>
-    <p>{{ year }}</p>
-  `,
+  templateUrl: "./my-first.component.html",
 })
 export class MyFirstComponent {
   public title: string;
