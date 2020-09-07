@@ -9,6 +9,10 @@ A simple app to create, remove and edit employees with name and country in a lis
 - Angular
 - Bootstrap
 
+## Live preview
+
+[a link](https://fad95.github.io/Angular-Introduccion/)
+
 ## Desktop view
 
 ![Desktop_Screenshot](./desktop_screenshot.png)
